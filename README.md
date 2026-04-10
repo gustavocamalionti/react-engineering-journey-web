@@ -40,7 +40,7 @@ A proposta é simples:
 A progressão foi planejada de forma estratégica:
 
 - ✅ **4 projetos pequenos → 1 projeto médio**
-- ✅ **A cada 20 projetos → 1 projeto grande (nível portfólio forte)**
+- ✅ **A cada 20 projetos → 1 projeto grande**
 
 ### Tipos de projeto:
 
