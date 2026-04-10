@@ -46,9 +46,9 @@ A progressão foi planejada de forma estratégica:
 
 | Tipo | Duração | Objetivo |
 |------|--------|---------|
-| 🟢 Pequeno | 1–3 dias | Fixar conceitos isolados |
-| 🟡 Médio | 3–7 dias | Integrar múltiplas habilidades |
-| 🔴 Grande | 1–3 semanas | Simular aplicações reais |
+| 🧩 Pequeno | 1–3 dias | Fixar conceitos isolados |
+| 🚀 Médio | 3–7 dias | Integrar múltiplas habilidades |
+| ⭐ Grande | 1–3 semanas | Simular aplicações reais |
 
 ---
 
