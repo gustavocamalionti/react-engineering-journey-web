@@ -6,7 +6,7 @@
 
 ## 📌 Sobre o Projeto
 
-Este repositório é o **hub central** da minha jornada de evolução como desenvolvedor, com foco em dominar profundamente o ecossistema moderno de desenvolvimento web utilizando:
+Este repositório é o **hub central** da minha jornada de evolução como desenvolvedor, com foco em dominar o ecossistema moderno de desenvolvimento web utilizando:
 
 - ⚛️ React
 - 🔺 Next.js
@@ -219,9 +219,6 @@ Cada projeto terá:
 ---
 
 ## 📬 Contato
-
-Se você é recrutador ou desenvolvedor e quer trocar ideias:
-
 - 💼 LinkedIn: [http://www.linkedin.com/in/gustavocamalionti]
 - 📧 Email: [gustavocamalionti@gmail.com]
 
