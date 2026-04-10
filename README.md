@@ -1,154 +1,232 @@
-# 🚀 100 React Projects Roadmap
+# 🚀 React Engineering Journey Web
 
-Este repositório documenta minha jornada para dominar o ecossistema React, evoluindo de projetos simples focados em consumo de APIs até sistemas fullstack complexos com arquitetura escalável.
+> Uma jornada prática para alcançar um nível maior no ecossistema **React + Node.js** através da construção de 100 projetos reais web.
+
+---
+
+## 📌 Sobre o Projeto
+
+Este repositório é o **hub central** da minha jornada de evolução como desenvolvedor, com foco em dominar profundamente o ecossistema moderno de desenvolvimento web utilizando:
+
+- ⚛️ React
+- 🔺 Next.js
+- 🟢 Node.js
+- 🟦 TypeScript
+- 🐳 Docker
+- 🎨 Tailwind CSS
+- 🧠 Arquitetura escalável
+
+A proposta é simples:
+
+> **Aprender construindo — e evoluir como engenheiro de software através de projetos reais.**
+
+---
 
 ## 🎯 Objetivo
-- Dominar React, Next.js, docker, CI/CD e TypeScript
-- Evoluir para backend com Node.js
-- Construir projetos reais de portfólio
-- Atingir nível pleno
+
+- Sair de um nível intermediário para um nível **sênior em frontend e fullstack**
+- Construir um portfólio sólido com projetos relevantes para o mercado
+- Dominar conceitos avançados de:
+  - Arquitetura
+  - Performance
+  - Escalabilidade
+  - Boas práticas
+- Simular cenários reais de empresas e produtos digitais
+
+---
+
+## 🧠 Estratégia de Aprendizado
+
+A progressão foi planejada de forma estratégica:
+
+- ✅ **4 projetos pequenos → 1 projeto médio**
+- ✅ **A cada 20 projetos → 1 projeto grande (nível portfólio forte)**
+
+### Tipos de projeto:
+
+| Tipo | Duração | Objetivo |
+|------|--------|---------|
+| 🟢 Pequeno | 1–3 dias | Fixar conceitos isolados |
+| 🟡 Médio | 3–7 dias | Integrar múltiplas habilidades |
+| 🔴 Grande | 1–3 semanas | Simular aplicações reais |
+
+---
+
+## 🧩 Fases da Jornada
+
+| Fase | Tecnologias | Objetivo |
+|------|------------|---------|
+| 1–20 | React, Hooks, APIs, CSS | Construir base sólida em React e consumo de APIs |
+| 21–40 | TypeScript, Node.js, React Query | Tipagem, backend inicial e gestão de estado |
+| 41–60 | Next.js, Auth, Banco de dados | Fullstack real com autenticação e persistência |
+| 61–80 | Docker, Testes, Arquitetura | Qualidade de código, testes e organização |
+| 81–100 | Sistemas complexos, Microserviços | Escala, integração e visão de sistema |
 
 ---
 
 ## 📊 Progresso
 
-| # | projeto | nivel | tipo | descricao | tecnologias | status | link |
-|--|--------|------|------|----------|------------|--------|------|
-| 01 | github-user-search | iniciante | api | buscar usuários do github | react, css, fetch | ⬜ | - |
-| 02 | weather-dashboard | iniciante | api | clima por cidade | react, api | ⬜ | - |
-| 03 | movie-search-app | iniciante | api | buscar filmes | react, tmdb api | ⬜ | - |
-| 04 | random-user-list | iniciante | api | lista de usuários aleatórios | react, api | ⬜ | - |
-| 05 | crypto-price-tracker | iniciante | api | preços de criptomoedas | react, api | ⬜ | - |
-| 06 | todo-app-localstorage | iniciante | fixacao | CRUD local | react | ⬜ | - |
-| 07 | recipe-search-app | iniciante | api | receitas via API | react | ⬜ | - |
-| 08 | country-info-app | iniciante | api | info de países | react | ⬜ | - |
-| 09 | pokemon-browser | iniciante | api | pokedex simples | react | ⬜ | - |
-| 10 | news-app | iniciante | api | notícias | react | ⬜ | - |
-| 11 | dashboard-basic | iniciante | complexo | dashboard com gráficos | react, chart | ⬜ | - |
----
-
-## 🔹 Fase 2 (Estado e APIs)
-| # | projeto | nivel | tipo | descricao | tecnologias | status | link |
-|--|--------|------|------|----------|------------|--------|------|
-| 12 | shopping-cart | intermediario | fixacao | carrinho | react, context | ⬜ | - |
-| 13 | blog-posts-api | intermediario | api | posts via api | react | ⬜ | - |
-| 14 | infinite-scroll-feed | intermediario | api | feed infinito | react | ⬜ | - |
-| 15 | debounce-search | intermediario | fixacao | busca otimizada | react | ⬜ | - |
-| 16 | pagination-table | intermediario | fixacao | tabela paginada | react | ⬜ | - |
-| 17 | ecommerce-ui | intermediario | complexo | loja fake | react, context | ⬜ | - |
+> Status:
+> - ❌ Não iniciado  
+> - 🟡 Em progresso  
+> - ✅ Concluído  
 
 ---
 
-## 🔹 Fase 3 (React Avançado)
-| # | projeto | nivel | tipo | descricao | tecnologias | status | link |
-|--|--------|------|------|----------|------------|--------|------|
-| 18 | auth-ui-mock | intermediario | fixacao | login fake | react | ⬜ | - |
-| 19 | drag-drop-list | intermediario | fixacao | drag drop | react | ⬜ | - |
-| 20 | modal-system | intermediario | fixacao | sistema de modais | react | ⬜ | - |
-| 21 | theme-switcher | intermediario | fixacao | dark/light | react | ⬜ | - |
-| 22 | multi-step-form | intermediario | fixacao | formulário complexo | react | ⬜ | - |
-| 23 | admin-dashboard | intermediario | complexo | painel admin | react | ⬜ | - |
+## 📦 Projetos (1–100)
+
+## Construir base sólida em React e consumo de APIs
+| # | Projeto | Tipo | Versão | Tecnologias | Descrição | Status | Repo |
+|--|--------|------|--------|------------|----------|--------|------|
+|1|random-user-card|🧩|v0.1.0|React API|Exibir usuário aleatório via API|❌|#|
+|2|weather-widget|🧩|v0.1.0|React API|Clima em tempo real|❌|#|
+|3|crypto-price-tracker|🧩|v0.1.0|React|Preços de criptomoedas|❌|#|
+|4|movie-search-app|🧩|v0.1.0|React|Busca de filmes|❌|#|
+|5|task-manager-basic|🚀|v0.1.0|React|CRUD de tarefas com localStorage|❌|#|
+|6|github-user-finder|🧩|v0.1.0|React API|Buscar usuários GitHub|❌|#|
+|7|quote-generator|🧩|v0.1.0|React|Frases aleatórias|❌|#|
+|8|image-gallery|🧩|v0.1.0|React API|Galeria com API|❌|#|
+|9|todo-with-filter|🧩|v0.1.0|React|Filtro de tarefas|❌|#|
+|10|dashboard-stats|🚀|v0.1.0|React|Dashboard com gráficos simples|❌|#|
+|11|news-app|🧩|v0.1.0|React API|App de notícias|❌|#|
+|12|currency-converter|🧩|v0.1.0|React|Conversor de moedas|❌|#|
+|13|form-validation-app|🧩|v0.1.0|React|Validação de formulários|❌|#|
+|14|pagination-demo|🧩|v0.1.0|React|Paginação de dados|❌|#|
+|15|blog-ui|🚀|v0.1.0|React|Interface de blog|❌|#|
+|16|search-autocomplete|🧩|v0.1.0|React|Autocomplete de busca|❌|#|
+|17|modal-system|🧩|v0.1.0|React|Sistema de modais|❌|#|
+|18|dark-mode-app|🧩|v0.1.0|React|Tema dark/light|❌|#|
+|19|infinite-scroll|🧩|v0.1.0|React|Scroll infinito|❌|#|
+|20|admin-dashboard-lite|⭐|v0.1.0|React|Dashboard admin com múltiplos widgets|❌|#|
+
+## Tipagem, backend inicial e gestão de estado
+| # | Projeto | Tipo | Versão | Tecnologias | Descrição | Status | Repo |
+|--|--------|------|--------|------------|----------|--------|------|
+|21|ts-todo-app|🧩|v0.1.0|React TS|Todo com TypeScript|❌|#|
+|22|api-cache-demo|🧩|v0.1.0|React Query|Cache de requisições|❌|#|
+|23|form-builder|🧩|v0.1.0|React TS|Form dinâmico|❌|#|
+|24|chart-dashboard|🧩|v0.1.0|React|Gráficos com dados|❌|#|
+|25|notes-api-app|🚀|v0.1.0|React Node|CRUD com API real|❌|#|
+|26|auth-ui|🧩|v0.1.0|React|Tela de login|❌|#|
+|27|file-upload-ui|🧩|v0.1.0|React|Upload de arquivos|❌|#|
+|28|multi-step-form|🧩|v0.1.0|React|Form multi-step|❌|#|
+|29|drag-drop-kanban|🧩|v0.1.0|React|Kanban drag-drop|❌|#|
+|30|kanban-fullstack|🚀|v0.1.0|Fullstack|Kanban com backend Node|❌|#|
+|31|socket-chat-ui|🧩|v0.1.0|React|Interface de chat|❌|#|
+|32|api-rate-limit-demo|🧩|v0.1.0|Node|Rate limit API|❌|#|
+|33|jwt-auth-demo|🧩|v0.1.0|Node|Autenticação JWT|❌|#|
+|34|rest-api-structure|🧩|v0.1.0|Node|Estrutura de API REST|❌|#|
+|35|blog-api-system|🚀|v0.1.0|Node DB|API completa de blog|❌|#|
+|36|search-engine-ui|🧩|v0.1.0|React|UI de busca|❌|#|
+|37|debounce-search|🧩|v0.1.0|React|Busca com debounce|❌|#|
+|38|state-manager-demo|🧩|v0.1.0|Zustand|Gerenciamento de estado|❌|#|
+|39|error-boundary-demo|🧩|v0.1.0|React|Tratamento de erros|❌|#|
+|40|saas-dashboard|⭐|v0.1.0|Fullstack|Dashboard SaaS com autenticação|❌|#|
+
+## Fullstack real com autenticação e persistência
+| # | Projeto | Tipo | Versão | Tecnologias | Descrição | Status | Repo |
+|--|--------|------|--------|------------|----------|--------|------|
+|41|next-blog|🧩|v0.1.0|Next.js|Blog com SSR|❌|#|
+|42|ssr-demo|🧩|v0.1.0|Next.js|Renderização SSR|❌|#|
+|43|auth-next-app|🧩|v0.1.0|NextAuth|Login com sessão|❌|#|
+|44|protected-routes|🧩|v0.1.0|Next.js|Rotas protegidas|❌|#|
+|45|ecommerce-lite|🚀|v0.1.0|Next.js|Loja simples com listagem|❌|#|
+|46|stripe-demo|🧩|v0.1.0|Stripe|Integração pagamento|❌|#|
+|47|product-api|🧩|v0.1.0|Node|API de produtos|❌|#|
+|48|review-system|🧩|v0.1.0|Fullstack|Sistema de avaliações|❌|#|
+|49|cart-system|🧩|v0.1.0|React|Carrinho de compras|❌|#|
+|50|ecommerce-full|🚀|v0.1.0|Fullstack|E-commerce com carrinho e checkout|❌|#|
+|51|profile-dashboard|🧩|v0.1.0|Next.js|Dashboard de perfil do usuário|❌|#|
+|52|settings-page|🧩|v0.1.0|Next.js|Configurações do usuário|❌|#|
+|53|notifications-system|🧩|v0.1.0|Node|Sistema básico de notificações|❌|#|
+|54|email-service|🧩|v0.1.0|Node|Envio de emails automatizados|❌|#|
+|55|booking-system|🚀|v0.1.0|Fullstack|Sistema de reservas com backend e UI|❌|#|
+|56|realtime-chat|🧩|v0.1.0|Socket.io|Chat em tempo real|❌|#|
+|57|permissions-system|🧩|v0.1.0|Node|Controle de permissões básico|❌|#|
+|58|audit-logs|🧩|v0.1.0|Node|Registro de ações do sistema|❌|#|
+|59|feature-flags|🧩|v0.1.0|Node|Controle de features via flags|❌|#|
+|60|multi-role-dashboard|⭐|v0.1.0|Fullstack|Dashboard com múltiplos papéis de usuário|❌|#|
+
+## Qualidade de código, testes e organização
+| # | Projeto | Tipo | Versão | Tecnologias | Descrição | Status | Repo |
+|--|--------|------|--------|------------|----------|--------|------|
+|61|dockerized-api|🧩|v0.1.0|Docker Node|API rodando em container Docker|❌|#|
+|62|ci-cd-demo|🧩|v0.1.0|CI/CD|Pipeline simples de deploy|❌|#|
+|63|unit-test-demo|🧩|v0.1.0|Jest|Testes unitários básicos|❌|#|
+|64|integration-tests|🧩|v0.1.0|Testing|Testes de integração|❌|#|
+|65|testable-api|🚀|v0.1.0|Node|API estruturada para testes|❌|#|
+|66|logging-system|🧩|v0.1.0|Node|Sistema de logs estruturados|❌|#|
+|67|metrics-dashboard|🧩|v0.1.0|Next.js|Dashboard de métricas simples|❌|#|
+|68|error-tracking|🧩|v0.1.0|Node|Monitoramento de erros|❌|#|
+|69|cache-layer|🧩|v0.1.0|Redis|Camada de cache básica|❌|#|
+|70|scalable-api|🚀|v0.1.0|Node|API com foco em escalabilidade|❌|#|
+|71|event-driven-system|🧩|v0.1.0|Node|Sistema orientado a eventos|❌|#|
+|72|queue-system|🧩|v0.1.0|Bull|Fila de processamento|❌|#|
+|73|file-processing|🧩|v0.1.0|Node|Processamento de arquivos|❌|#|
+|74|image-processor|🧩|v0.1.0|Node|Manipulação de imagens|❌|#|
+|75|media-service|🚀|v0.1.0|Fullstack|Upload e processamento de mídia|❌|#|
+|76|auth-service|🧩|v0.1.0|Node|Serviço de autenticação separado|❌|#|
+|77|gateway-api|🧩|v0.1.0|Node|API Gateway básico|❌|#|
+|78|config-service|🧩|v0.1.0|Node|Gerenciamento de configs|❌|#|
+|79|monitoring-system|🧩|v0.1.0|Node|Monitoramento de serviços|❌|#|
+|80|enterprise-dashboard-system|⭐|v0.1.0|Fullstack|Dashboard corporativo com múltiplos módulos|❌|#|
+
+## Escala, integração e visão de sistema
+| # | Projeto | Tipo | Versão | Tecnologias | Descrição | Status | Repo |
+|--|--------|------|--------|------------|----------|--------|------|
+|81|multi-tenant-saas|🚀|v0.1.0|Fullstack|SaaS com múltiplos clientes|❌|#|
+|82|billing-system|🧩|v0.1.0|Node|Sistema de cobrança básico|❌|#|
+|83|subscription-engine|🧩|v0.1.0|Node|Gerenciamento de assinaturas|❌|#|
+|84|usage-tracking|🧩|v0.1.0|Node|Monitoramento de uso|❌|#|
+|85|analytics-platform|🚀|v0.1.0|Fullstack|Plataforma de analytics|❌|#|
+|86|realtime-collab-app|🧩|v0.1.0|WebSocket|App colaborativo em tempo real|❌|#|
+|87|document-editor|🧩|v0.1.0|React|Editor tipo Notion simplificado|❌|#|
+|88|workflow-engine|🧩|v0.1.0|Node|Motor simples de workflows|❌|#|
+|89|rules-engine|🧩|v0.1.0|Node|Sistema de regras dinâmicas|❌|#|
+|90|collaboration-platform|🚀|v0.1.0|Fullstack|Plataforma colaborativa completa|❌|#|
+|91|microservices-platform|🧩|v0.1.0|Node Docker|Base de microserviços|❌|#|
+|92|service-discovery|🧩|v0.1.0|Node|Descoberta de serviços|❌|#|
+|93|distributed-logging|🧩|v0.1.0|Node|Logs distribuídos|❌|#|
+|94|tracing-system|🧩|v0.1.0|Node|Tracing de requisições|❌|#|
+|95|observability-platform|🚀|v0.1.0|Fullstack|Logs + métricas + tracing|❌|#|
+|96|ai-integration-app|🧩|v0.1.0|AI API|Integração com IA|❌|#|
+|97|recommendation-engine|🧩|v0.1.0|Node|Sistema de recomendação simples|❌|#|
+|98|search-platform|🧩|v0.1.0|Node|Motor de busca básico|❌|#|
+|99|global-scale-api|🧩|v0.1.0|Node|API preparada para escala|❌|#|
+|100|full-enterprise-platform|⭐|v0.1.0|Fullstack DevOps|Sistema completo com frontend, backend e infraestrutura|❌|#|
+
+
+## ⭐ Projetos Destaque (Portfólio)
+
+Esses projetos serão tratados com maior nível de qualidade:
+
+- UI/UX refinado
+- Código limpo e escalável
+- Testes (quando aplicável)
+- Deploy real
 
 ---
 
-## 🔹 Fase 4 (Node + Backend)
-| # | projeto | nivel | tipo | descricao | tecnologias | status | link |
-|--|--------|------|------|----------|------------|--------|------|
-| 24 | express-api-basic | backend | fixacao | api simples | node, express | ⬜ | - |
-| 25 | auth-jwt-api | backend | fixacao | auth jwt | node | ⬜ | - |
-| 26 | file-upload-api | backend | fixacao | upload | node | ⬜ | - |
-| 27 | comments-api | backend | fixacao | comentários | node | ⬜ | - |
-| 28 | blog-api | backend | fixacao | blog backend | node | ⬜ | - |
-| 29 | fullstack-blog | fullstack | complexo | blog completo | react, node | ⬜ | - |
+## 📈 Como acompanhar
+
+Cada projeto terá:
+
+- 📁 Repositório próprio
+- 📄 README detalhado
+- 🚀 Deploy (quando aplicável)
+- 🧠 Aprendizados documentados
 
 ---
 
-## 🔹 Fase 5 (Fullstack + Integração)
-| # | projeto | nivel | tipo | descricao | tecnologias | status | link |
-|--|--------|------|------|----------|------------|--------|------|
-| 30 | notes-app | fullstack | fixacao | notas | react, node | ⬜ | - |
-| 31 | task-manager | fullstack | fixacao | tarefas | react, node | ⬜ | - |
-| 32 | chat-app-basic | fullstack | fixacao | chat simples | socket.io | ⬜ | - |
-| 33 | kanban-board | fullstack | fixacao | kanban | react | ⬜ | - |
-| 34 | calendar-app | fullstack | fixacao | calendário | react | ⬜ | - |
-| 35 | notion-clone-lite | fullstack | complexo | tipo notion | react, node | ⬜ | - |
+## 📬 Contato
+
+Se você é recrutador ou desenvolvedor e quer trocar ideias:
+
+- 💼 LinkedIn: [http://www.linkedin.com/in/gustavocamalionti]
+- 📧 Email: [gustavocamalionti@gmail.com]
 
 ---
 
-## 🔹 Fase 6 (TypeScript)
-| # | projeto | nivel | tipo | descricao | tecnologias | status | link |
-|--|--------|------|------|----------|------------|--------|------|
-| 36 | ts-conversion-1 | avancado | refactor | migrar projeto | typescript | ⬜ | - |
-| 37 | typed-api-client | avancado | fixacao | cliente tipado | ts | ⬜ | - |
-| 38 | zod-validation | avancado | fixacao | validação | ts, zod | ⬜ | - |
-| 39 | typed-hooks | avancado | fixacao | hooks tipados | ts | ⬜ | - |
-| 40 | service-layer | avancado | fixacao | arquitetura | ts | ⬜ | - |
-| 41 | saas-dashboard | avancado | complexo | dashboard real | react, ts | ⬜ | - |
+## ⭐ Se este projeto te inspirar...
 
----
-
-## 🔹 Fase 7 (Next.js)
-| # | projeto | nivel | tipo | descricao | tecnologias | status | link |
-|--|--------|------|------|----------|------------|--------|------|
-| 42 | next-blog | avancado | fixacao | blog ssr | next | ⬜ | - |
-| 43 | next-auth-app | avancado | fixacao | auth | next | ⬜ | - |
-| 44 | next-dashboard | avancado | fixacao | dashboard | next | ⬜ | - |
-| 45 | seo-landing | avancado | fixacao | landing | next | ⬜ | - |
-| 46 | cms-frontend | avancado | fixacao | cms | next | ⬜ | - |
-| 47 | medium-clone | avancado | complexo | plataforma conteúdo | next | ⬜ | - |
-
----
-
-## 🔹 Fase 8 (DevOps)
-| # | projeto | nivel | tipo | descricao | tecnologias | status | link |
-|--|--------|------|------|----------|------------|--------|------|
-| 48 | docker-basic | devops | fixacao | container | docker | ⬜ | - |
-| 49 | docker-compose-app | devops | fixacao | multi container | docker | ⬜ | - |
-| 50 | ci-cd-pipeline | devops | fixacao | pipeline | github actions | ⬜ | - |
-| 51 | logging-system | devops | fixacao | logs | node | ⬜ | - |
-| 52 | monitoring-app | devops | fixacao | monitoramento | node | ⬜ | - |
-| 53 | production-app | devops | complexo | deploy completo | docker | ⬜ | - |
-
----
-
-## 🔹 Fase 9 (Senior Level)
-| # | projeto | nivel | tipo | descricao | tecnologias | status | link |
-|--|--------|------|------|----------|------------|--------|------|
-| 54 | microfrontend-demo | senior | complexo | microfrontends | react | ⬜ | - |
-| 55 | realtime-chat | senior | complexo | chat avançado | socket | ⬜ | - |
-| 56 | multi-tenant-saas | senior | complexo | multi empresa | node | ⬜ | - |
-| 57 | payments-system | senior | complexo | pagamentos | stripe | ⬜ | - |
-| 58 | full-ecommerce | senior | complexo | ecommerce real | fullstack | ⬜ | - |
-
----
-
-## 🔥 Projetos finais
-
-| 59 | trello-clone | senior | final | clone trello | fullstack | ⬜ | - |
-| 60 | uber-clone | senior | final | sistema complexo | fullstack | ⬜ | - |
-| 61 | netflix-clone-full | senior | final | streaming | next | ⬜ | - |
-| 62 | saas-platform | senior | final | produto real | fullstack | ⬜ | - |
-| 63 | ultimate-project | senior | final | projeto principal | fullstack | ⬜ | - |
-
----
-
-## 🧠 Legenda
-
-- ⬜ Não iniciado
-- 🟨 Em progresso
-- ✅ Concluído
-
----
-
-## 📌 Observações
-
-- Cada projeto terá README próprio
-- Todos terão deploy
-- Código organizado e documentado
-- Projetos complexos focados em portfólio
-
----
-
-## 🌐 Portfólio futuro
-
-Em breve: página centralizada com todos os projetos acessíveis.
+Considere dar uma estrela no repositório — isso ajuda muito 🙌
