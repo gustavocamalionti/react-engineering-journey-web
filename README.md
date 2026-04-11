@@ -1,6 +1,6 @@
 # 🚀 React Engineering Journey Web
 
-> Uma jornada prática para alcançar um nível maior no ecossistema **React + Node.js** através da construção de 100 projetos reais web.
+> Projetos práticos para atingir um nível maior no ecossistema **React + Node.js** através da construção de 100 projetos reais web.
 
 ---
 
