@@ -19,25 +19,20 @@ Este repositório é o **hub central** da minha jornada de evolução como desen
 A proposta é simples:
 
 > **Aprender construindo — e evoluir como engenheiro de software através de projetos reais.**
-
----
-
-## 🎯 Objetivo
-
-- Sair de um nível intermediário para um nível **sênior em frontend e fullstack**
-- Construir um portfólio sólido com projetos relevantes para o mercado
-- Dominar conceitos avançados de:
-  - Arquitetura
-  - Performance
-  - Escalabilidade
-  - Boas práticas
-- Simular cenários reais de empresas e produtos digitais
+> - Sair de um nível inicial para um nível **sólido em frontend e fullstack**
+> - Construir um portfólio com diversos projetos diferentes
+> - Simular cenários reais de empresas e produtos digitais
+> - Dominar conceitos de:
+>   - Arquitetura
+>   - Performance
+>   - Escalabilidade
+>   - Boas práticas
 
 ---
 
 ## 🧠 Estratégia de Aprendizado
 
-A progressão foi planejada de forma estratégica:
+A progressão foi planejada da seguinte forma:
 
 - ✅ **4 projetos pequenos → 1 projeto médio**
 - ✅ **A cada 20 projetos → 1 projeto grande**
@@ -50,32 +45,42 @@ A progressão foi planejada de forma estratégica:
 | 🚀 Médio | 3–7 dias | Integrar múltiplas habilidades |
 | ⭐ Grande | 1–3 semanas | Simular aplicações reais |
 
----
-
-## 🧩 Fases da Jornada
-
-| Fase | Tecnologias | Objetivo |
-|------|------------|---------|
-| 1–20 | React, Hooks, APIs, CSS | Construir base sólida em React e consumo de APIs |
-| 21–40 | TypeScript, Node.js, React Query | Tipagem, backend inicial e gestão de estado |
-| 41–60 | Next.js, Auth, Banco de dados | Fullstack real com autenticação e persistência |
-| 61–80 | Docker, Testes, Arquitetura | Qualidade de código, testes e organização |
-| 81–100 | Sistemas complexos, Microserviços | Escala, integração e visão de sistema |
-
----
-
-## 📊 Progresso
-
-> Status:
+> 📊 Progresso:
 > - ❌ Não iniciado  
 > - 🟡 Em progresso  
 > - ✅ Concluído  
 
 ---
 
-## 📦 Projetos (1–100)
+## ⭐ Projetos Destaque (Portfólio)
 
-## Construir base sólida em React e consumo de APIs
+Esses projetos serão tratados com maior nível de qualidade:
+
+- UI/UX refinado
+- Código limpo e escalável
+- Testes (quando aplicável)
+- Deploy real
+
+---
+
+# 📚 Projetos de Fixação / Curso
+
+> Projetos desenvolvidos durante estudos, cursos ou experimentos para reforçar o conhecimento.
+
+| # | Projeto | Tipo | Fonte | Tecnologias | Conceito praticado | Status |
+|--|--------|------|------|------------|------------------|--------|
+| C01 | [tic-tac-toe-react](https://github.com/gustavocamalionti/tic-tac-toe-react) ![commit](https://img.shields.io/github/last-commit/gustavocamalionti/tic-tac-toe-react) | 🧩 | Documentação React | React | Gerenciamento de estado, imutabilidade e renderização condicional | ✅ |
+| C02 | [react-register-user](https://github.com/gustavocamalionti/react-register-user) ![commit](https://img.shields.io/github/last-commit/gustavocamalionti/react-register-user) | 🧩 | YouTube | React | Formulários controlados, gerenciamento de estado e manipulação de eventos | ✅ |
+| C03 | [react-todolist](https://github.com/gustavocamalionti/react-todolist) ![commit](https://img.shields.io/github/last-commit/gustavocamalionti/react-todolist) | 🧩 | YouTube | React | Operações CRUD com estado local e manipulação de listas | ✅ |
+| C04 | [timecosmic](https://github.com/gustavocamalionti/timecosmic) ![commit](https://img.shields.io/github/last-commit/gustavocamalionti/timecosmic) | ⭐ | Curso.dev (Felipe Deschamps) | Next.js | Arquitetura fullstack com SSR, integração com APIs e organização de projeto | 🟡 |
+| C05 | [react-course](https://github.com/gustavocamalionti/react-course) ![commit](https://img.shields.io/github/last-commit/gustavocamalionti/react-course) | 🚀 | Curso | React | Fundamentos do React: componentes, props, estado e ciclo de vida | 🟡 |
+
+## 📦 Projetos (1–100)
+- 🚀 Projetos principais: 0
+- 📚 Projetos de fixação: 0
+- ⭐ Projetos de portfólio: 0
+
+### Construir base sólida em React e consumo de APIs
 | # | Projeto | Tipo | Versão | Tecnologias | Descrição | Status | Repo |
 |--|--------|------|--------|------------|----------|--------|------|
 |1|random-user-card|🧩|v0.1.0|React API|Exibir usuário aleatório via API|❌|#|
@@ -99,7 +104,7 @@ A progressão foi planejada de forma estratégica:
 |19|infinite-scroll|🧩|v0.1.0|React|Scroll infinito|❌|#|
 |20|admin-dashboard-lite|⭐|v0.1.0|React|Dashboard admin com múltiplos widgets|❌|#|
 
-## Tipagem, backend inicial e gestão de estado
+### Tipagem, backend inicial e gestão de estado
 | # | Projeto | Tipo | Versão | Tecnologias | Descrição | Status | Repo |
 |--|--------|------|--------|------------|----------|--------|------|
 |21|ts-todo-app|🧩|v0.1.0|React TS|Todo com TypeScript|❌|#|
@@ -123,7 +128,7 @@ A progressão foi planejada de forma estratégica:
 |39|error-boundary-demo|🧩|v0.1.0|React|Tratamento de erros|❌|#|
 |40|saas-dashboard|⭐|v0.1.0|Fullstack|Dashboard SaaS com autenticação|❌|#|
 
-## Fullstack real com autenticação e persistência
+### Fullstack real com autenticação e persistência
 | # | Projeto | Tipo | Versão | Tecnologias | Descrição | Status | Repo |
 |--|--------|------|--------|------------|----------|--------|------|
 |41|next-blog|🧩|v0.1.0|Next.js|Blog com SSR|❌|#|
@@ -147,7 +152,7 @@ A progressão foi planejada de forma estratégica:
 |59|feature-flags|🧩|v0.1.0|Node|Controle de features via flags|❌|#|
 |60|multi-role-dashboard|⭐|v0.1.0|Fullstack|Dashboard com múltiplos papéis de usuário|❌|#|
 
-## Qualidade de código, testes e organização
+### Qualidade de código, testes e organização
 | # | Projeto | Tipo | Versão | Tecnologias | Descrição | Status | Repo |
 |--|--------|------|--------|------------|----------|--------|------|
 |61|dockerized-api|🧩|v0.1.0|Docker Node|API rodando em container Docker|❌|#|
@@ -171,7 +176,7 @@ A progressão foi planejada de forma estratégica:
 |79|monitoring-system|🧩|v0.1.0|Node|Monitoramento de serviços|❌|#|
 |80|enterprise-dashboard-system|⭐|v0.1.0|Fullstack|Dashboard corporativo com múltiplos módulos|❌|#|
 
-## Escala, integração e visão de sistema
+### Escala, integração e visão de sistema
 | # | Projeto | Tipo | Versão | Tecnologias | Descrição | Status | Repo |
 |--|--------|------|--------|------------|----------|--------|------|
 |81|multi-tenant-saas|🚀|v0.1.0|Fullstack|SaaS com múltiplos clientes|❌|#|
@@ -194,27 +199,6 @@ A progressão foi planejada de forma estratégica:
 |98|search-platform|🧩|v0.1.0|Node|Motor de busca básico|❌|#|
 |99|global-scale-api|🧩|v0.1.0|Node|API preparada para escala|❌|#|
 |100|full-enterprise-platform|⭐|v0.1.0|Fullstack DevOps|Sistema completo com frontend, backend e infraestrutura|❌|#|
-
-
-## ⭐ Projetos Destaque (Portfólio)
-
-Esses projetos serão tratados com maior nível de qualidade:
-
-- UI/UX refinado
-- Código limpo e escalável
-- Testes (quando aplicável)
-- Deploy real
-
----
-
-## 📈 Como acompanhar
-
-Cada projeto terá:
-
-- 📁 Repositório próprio
-- 📄 README detalhado
-- 🚀 Deploy (quando aplicável)
-- 🧠 Aprendizados documentados
 
 ---
 
