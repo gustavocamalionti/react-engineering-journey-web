@@ -15,40 +15,28 @@ Este repositório é o **hub central** da minha jornada de evolução como desen
 - 🐳 Docker
 - 🎨 Tailwind CSS
 - 🧠 Arquitetura escalável
+  
+---
 
-A proposta é simples:
+## 🗂️ Tipos de Projeto
 
-> **Aprender construindo — e evoluir como engenheiro de software através de projetos reais.**
-> - Sair de um nível inicial para um nível **sólido em frontend e fullstack**
-> - Construir um portfólio com diversos projetos diferentes
-> - Simular cenários reais de empresas e produtos digitais
-> - Dominar conceitos de:
->   - Arquitetura
->   - Performance
->   - Escalabilidade
->   - Boas práticas
+Escolha o tipo de projeto de acordo com seu objetivo de aprendizado e disponibilidade de tempo:
+
+| Tipo        | Duração estimada | Objetivo principal                  |
+|-------------|------------------|-------------------------------------|
+| 🧩 **Pequeno** | 1–3 dias         | Fixar conceitos específicos         |
+| 🚀 **Médio**   | 3–7 dias         | Integrar múltiplas habilidades      |
+| ⭐ **Grande**  | 1–3 semanas      | Simular aplicações do mundo real    |
 
 ---
 
-## 🧠 Estratégia de Aprendizado
+## 📊 Status de Progresso
 
-A progressão foi planejada da seguinte forma:
+Acompanhe o andamento de cada projeto com os indicadores abaixo:
 
-- ✅ **4 projetos pequenos → 1 projeto médio**
-- ✅ **A cada 20 projetos → 1 projeto grande**
-
-### Tipos de projeto:
-
-| Tipo | Duração | Objetivo |
-|------|--------|---------|
-| 🧩 Pequeno | 1–3 dias | Fixar conceitos isolados |
-| 🚀 Médio | 3–7 dias | Integrar múltiplas habilidades |
-| ⭐ Grande | 1–3 semanas | Simular aplicações reais |
-
-> 📊 Progresso:
-> - ❌ Não iniciado  
-> - 🟡 Em progresso  
-> - ✅ Concluído  
+- ❌ **Não iniciado**  
+- 🟡 **Em progresso**  
+- ✅ **Concluído**  
 
 ---
 
