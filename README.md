@@ -20,7 +20,7 @@ Este repositório é o **hub central** da minha jornada de evolução como desen
 
 ## 🗂️ Tipos de Projeto
 
-Escolha o tipo de projeto de acordo com seu objetivo de aprendizado e disponibilidade de tempo:
+Irei classificar da seguinte forma:
 
 | Tipo        | Duração estimada | Objetivo principal                  |
 |-------------|------------------|-------------------------------------|
