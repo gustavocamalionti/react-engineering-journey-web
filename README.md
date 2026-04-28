@@ -61,7 +61,7 @@ Esses projetos serão tratados com maior nível de qualidade:
 | C02 | [react-register-user](https://github.com/gustavocamalionti/react-register-user) ![commit](https://img.shields.io/github/last-commit/gustavocamalionti/react-register-user) | 📚 | YouTube | React | Formulários controlados, gerenciamento de estado e manipulação de eventos | ✅ |
 | C03 | [react-todolist](https://github.com/gustavocamalionti/react-todolist) ![commit](https://img.shields.io/github/last-commit/gustavocamalionti/react-todolist) | 📚 | YouTube | React | Operações CRUD com estado local e manipulação de listas | ✅ |
 | C04 | [timecosmic](https://github.com/gustavocamalionti/timecosmic) ![commit](https://img.shields.io/github/last-commit/gustavocamalionti/timecosmic) | ⭐ | Curso.dev (Felipe Deschamps) | Next.js | Arquitetura fullstack com SSR, integração com APIs e organização de projeto | 🟡 |
-| C05 | [react-course](https://github.com/gustavocamalionti/react-course) ![commit](https://img.shields.io/github/last-commit/gustavocamalionti/react-course) | 🚀 | Curso | React | Fundamentos do React: componentes, props, estado e ciclo de vida | 🟡 |
+| C05 | [react-course](https://github.com/gustavocamalionti/react-course) ![commit](https://img.shields.io/github/last-commit/gustavocamalionti/react-course) | 🚀 | Curso | React | Fundamentos do React: componentes, props, estado e ciclo de vida | ✅ |
 
 ## 📦 Projetos (1–100)
 - 🚀 Projetos principais: 0
