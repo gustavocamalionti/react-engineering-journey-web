@@ -6,7 +6,7 @@
 
 ## 📌 Sobre o Projeto
 
-Este repositório é o **hub central** da minha jornada de evolução com tecnologias que não faz parte do meu dia a dia profissional, com foco em dominar o ecossistema moderno de desenvolvimento web utilizando:
+Este repositório é o **hub central** da minha jornada de evolução com tecnologias que não faz parte do meu dia a dia profissional, com foco em dominar o ecossistema moderno de desenvolvimento web e ter portifólio utilizando:
 
 - ⚛️ React
 - 🔺 Next.js
